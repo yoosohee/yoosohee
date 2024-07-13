@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=F74EC0&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&multiline=true&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%90%A3%F0%9F%92%95)](https://git.io/typing-svg)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F74EC0&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&multiline=true&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%90%A3%F0%9F%92%95" alt="Typing SVG" /></a>
 <!--
 **yoosohee/yoosohee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
