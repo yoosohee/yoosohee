@@ -5,7 +5,7 @@
   <img src="https://render.gitanimals.org/farms/{yoosohee}"/>
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?https://github.com/yoosohee=anuraghazra&show_icons=true&theme=radical)
+
 
 <!--
 **yoosohee/yoosohee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
