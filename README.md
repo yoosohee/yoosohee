@@ -6,7 +6,7 @@
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoosohee&show_icons=true&theme=graywhite)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosohee)](https://github.com/yoosohee/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosohee&layout=compact)
 
 <!--
 **yoosohee/yoosohee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
