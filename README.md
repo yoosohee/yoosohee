@@ -5,6 +5,7 @@
   <img src="https://render.gitanimals.org/farms/{yoosohee}"/>
 </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoosohee&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosohee)](https://github.com/yoosohee/github-readme-stats)
 
 <!--
