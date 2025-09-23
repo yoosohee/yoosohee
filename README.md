@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F74EC0&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&multiline=true&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%90%A3%F0%9F%92%95" alt="Typing SVG" /></a>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{yoosohee}"/>
+  <img src="https://render.gitanimals.org/farms/yoosohee"/>
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoosohee&show_icons=true&theme=graywhite)
