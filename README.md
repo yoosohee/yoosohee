@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;&font=<link rel="preconnect" href="https://fonts.googleapis.com">)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;)](https://git.io/typing-svg)
+<link rel="preconnect" href="https://fonts.googleapis.com">
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{yoosohee}"/>
