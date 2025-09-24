@@ -8,8 +8,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoosohee&show_icons=false&theme=flag-india&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosohee&layout=compact&hide=jupyter%20notebook)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={yoosohee}&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle={yoosohee}&theme=Ruby"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=yoosohee&theme=Ruby)
+
 <!--
 **yoosohee/yoosohee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
